@@ -11,6 +11,8 @@ const Demo = () => {
         <li>Javascript</li>
         <li>Ruby</li>
         <li>PHP</li>
+        <li>Java</li>
+        <li>C#/.net</li>
       </ul>
     </div>
   );
